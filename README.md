@@ -1,12 +1,12 @@
 # Operating Systems
 
-## CECS 326: Section 3 (11469)
+## CECS 326: Section 2 (1147)
 
 ### Spring 2022
 
 | Class Lecture | Time               | Room    |
 |---------------|--------------------|---------|
-| Mon Wed       | 9:30 AM - 10:45 PM | ECS-302 |
+| Mon Wed       | 2:00 PM - 3:15 PM  | HC-102  |
 
 | Instructor        | Email                       | Office  | Office Hours           |
 |-------------------|-----------------------------|---------|------------------------|
